@@ -16,4 +16,4 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
-Changed Feature 1
+Change Feature 1
